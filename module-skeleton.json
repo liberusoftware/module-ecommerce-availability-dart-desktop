@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-availability-dart-desktop",
+  "capabilityKey": "planned:ecommerce:availability",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_availability_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/availability.md",
+  "presentationPlan": "projects/ecommerce/features/availability.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
